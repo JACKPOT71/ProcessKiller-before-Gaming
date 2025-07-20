@@ -12,28 +12,36 @@ and increased system stability during gaming sessions.
 
 ⚙️ Features
 🔻 [1] DISABLE ALL
+
 Terminates unnecessary background processes, including Explorer, idle processes, and Nvidia container tasks — all in one command.
 
 🔺 [2] ENABLE ALL
+
 Restores everything disabled by the tool: reopens Explorer, Nvidia containers, and re-enables idle CPU states.
 
 🗂️ [3] Close Explorer
+
 Closes Windows Explorer to free up memory and reduce DWM-related latency.
 
 🗂️ [4] Open Explorer
+
 Restarts Windows Explorer after you're done gaming or if needed.
 
 🎮 [5] Disable Nvidia Container
+
 Temporarily stops Nvidia Container processes, which may consume background CPU usage unnecessarily.
 
 💡 [6] Enable Nvidia Container
+
 Restarts Nvidia Container processes.
 
 🚫 [7] Disable CPU Idle States (C-States)
+
 Disables CPU idle states (C1/C3/C6 etc.) for ultra-low latency and a more responsive system.
 ⚠️ Warning: This may increase CPU temperatures.
 
 ✅ [8] Enable CPU Idle States
+
 Restores the default CPU power-saving behavior to reduce heat and power consumption.
 
 🛠️ Requirements
